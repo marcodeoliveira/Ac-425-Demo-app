@@ -7,3 +7,5 @@ This demonstrate how to validate RFID badges for site access and induction contr
 - Valid badge not expired;
 - Valid badge expired;
 - Non valid badge;
+
+SQL Database has the badge info.
